@@ -1,0 +1,6 @@
+@_3_StripePaymentGateWayIntegration_HostAddress = http://localhost:5209
+
+GET {{_3_StripePaymentGateWayIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
